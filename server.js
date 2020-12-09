@@ -19,7 +19,7 @@ var characters = [
     routeName: "yoda",
     name: "Yoda",
     role: "Jedi Master",
-    age: 800,
+    age: 900,
     forcePoints: 2000,
   },
   {
